@@ -1,53 +1,40 @@
-html{
+html {
   width: 100%;
   height: 100%;
   font-family: "Montserrat", sans-serif;
 }
-.fondo{
-    display: flex;
-     height: 90vh;
-     background-color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    justify-content: center;
-    align-items: center;
-    }
-    .navbar-brand  {
-      font-size: 1.3rem;
-      color: #61043d;
-      
-    }
-    .navbar-toggler{
-    color:  #61043d;
-    
-    }
 
-.img{
-display: flex;
+.fondo {
+  display: flex;
+  height: 90vh;
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+  color: #61043d;
+
+}
+
+.navbar-toggler {
+  color: #61043d;
+
+}
+
+.img {
+  display: flex;
 
 
 }
+
 .img_logo {
-width: 800px;
+  width: 800px;
 }
-    
-    
-    .btnindex{
-    background-color: rgba(47, 63, 77, 0) ;
-    font-size: 1.4rem;
-    border: 16px 16px ;
-    border-color: rgb(226, 13, 13);
-    border-radius: 4px;
-    color: aliceblue;
-    text-decoration: none;
-    list-style: none;
-    margin-top: 30px;
-    }
-.btnindex:hover{
-  background-color:rgba(2, 82, 92, 0.233) ;
-}
-    /*FOOTER*/
 
 .footer {
   display: flex;

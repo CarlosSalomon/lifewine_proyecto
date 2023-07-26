@@ -16,7 +16,7 @@ function compra(num1, p1, num2, p2) {
 
 alert(`Bienvenido/a a Nuestra tienda Online de Vinos Lifewine`);
 
-let nombre =  prompt ("ingrese su nombre por favor").toLowerCase();
+let nombre = prompt("ingrese su nombre por favor").toLowerCase();
 
 if (nombre != "") {
     alert(`Hola ${nombre}, gracias por visitarnos!!!`);
