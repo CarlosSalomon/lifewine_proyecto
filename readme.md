@@ -15,7 +15,7 @@
 
 # lifewine_proyecto
 
-![](./img/logo_vino.png)
+![](./img/logolifewine.png)
 
 
 # Estructura de la Web
